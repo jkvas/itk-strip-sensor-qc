@@ -41,6 +41,9 @@
 		<Item Name="Switching.lvclass" Type="LVClass" URL="../Switching/Switching.lvclass"/>
 		<Item Name="Pickering.lvclass" Type="LVClass" URL="../Switching/Pickering/Pickering.lvclass"/>
 		<Item Name="listSubclasses.vi" Type="VI" URL="../listSubclasses.vi"/>
+		<Item Name="GetListInstruments.vi" Type="VI" URL="../GetListInstruments.vi"/>
+		<Item Name="Mux_development_test.vi" Type="VI" URL="../../Mux_development_test.vi"/>
+		<Item Name="PickeringPrague.lvclass" Type="LVClass" URL="../Switching/PickeringPrague/PickeringPrague.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="Keithley 2600 Series.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Keithley 2600 Series/Keithley 2600 Series.lvlib"/>
@@ -65,6 +68,7 @@
 				<Item Name="Recursive File List.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Recursive File List.vi"/>
 				<Item Name="Get LV Class Path.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Path.vi"/>
 				<Item Name="Get LV Class Default Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Default Value.vi"/>
+				<Item Name="Get LV Class Name.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Name.vi"/>
 			</Item>
 			<Item Name="CascadeProbestation.lvlib" Type="Library" URL="../../../../Desktop/Kvasnicka/test_labview_library/Integration_toolkit_library/CascadeProbestation.lvlib"/>
 			<Item Name="PositionRef.ctl" Type="VI" URL="../../../../Desktop/Kvasnicka/test_labview_library/Integration_toolkit_library/Examples/PositionRef.ctl"/>
