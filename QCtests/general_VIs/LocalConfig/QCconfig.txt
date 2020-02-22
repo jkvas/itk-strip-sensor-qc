@@ -6,11 +6,11 @@ MANUFACTURERS%Hamamatsu,Infineon
 - list of sensor production manufacturers
 DEVICES%Short Strip,Long Strip,R0,R1,R2,R3,R4,R5,Mini,Test Structure
 - list of different device types
-SERIALNUMBERS%c:\Users\itk\Documents\itk-strip-sensor-qc\QCtests\SerialNumbers.txt
+SERIALNUMBERS%c:\Users\itkstriplabview4\Documents\itk-strip-sensor-qc\QCtests\SerialNumbers.txt
 - lookup table for serial numbers, first on a shared network disk and then the local copy
-DATADIR%c:\Users\itk\Documents\itk-strip-sensor-data
+DATADIR%c:\Users\itkstriplabview4\Documents\itk-strip-sensor-data
 - all the data directores
-BAKDIR%c:\Users\itk\Documents\itk-strip-sensor-data\www2\QC\
+BAKDIR%c:\Users\itkstriplabview4\Documents\itk-strip-sensor-data\www2\QC\
 - www directory
 USER%Jiri,Kvasnicka
 - list of known users
