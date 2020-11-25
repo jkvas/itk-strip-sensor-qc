@@ -1,10 +1,10 @@
-Labview configuration at Cambridge
+Labview configuration at Prague
 ==================================
 INSTITUTE%FZU
 - this institute
 MANUFACTURERS%Hamamatsu,Infineon
 - list of sensor production manufacturers
-DEVICES%Short Strip,Long Strip,R0,R1,R2,R3,R4,R5,Mini,Test Structure
+DEVICES%Short Strip,Long Strip,ATLAS18R0,ATLAS18R1,ATLAS18R2,ATLAS18R3,ATLAS18R4,ATLAS18R5,Mini,Test Structure
 - list of different device types
 SERIALNUMBERS%c:\Users\itkstriplabview4\Documents\itk-strip-sensor-qc\QCtests\SerialNumbers.txt
 - lookup table for serial numbers, first on a shared network disk and then the local copy
